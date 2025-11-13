@@ -92,7 +92,7 @@ const LoginPage = () => {
                   Loading...
                 </>
               ) : (
-                "Sign in"
+                "Log in"
               )}
             </button>
           </form>
